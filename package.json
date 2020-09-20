@@ -1,6 +1,6 @@
 {
   "name": "draft-simulator",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Display the draft nomination format using what you have entered.",
   "main": "main.js",
   "bin": {
