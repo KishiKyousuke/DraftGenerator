@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Display the draft nomination format using what you have entered.",
   "main": "main.js",
+  "bin": {
+    "draft-simulator": "./main.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +15,8 @@
   },
   "author": "KishiKyousuke",
   "license": "ISC",
+  "bugs": "https://github.com/KishiKyousuke/draft-simulator/issues",
+  "homepage": "https://github.com/KishiKyousuke/draft-simulator#readme",
   "dependencies": {
     "inquirer": "^7.3.3"
   }
